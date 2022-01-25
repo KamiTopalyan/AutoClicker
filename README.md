@@ -2,7 +2,7 @@
 
 ## What is it
 
-SuperClicker is an Autoclicker program that is customizeable to a good extend like setting a dealy between each click or clicking on a specific location that can be set by the user as coordinates.
+SuperClicker is an Autoclicker program that is customizeable to a good extend like setting a delay between each click or clicking on a specific location that can be set by the user as coordinates.
 
 ## How to install
 
