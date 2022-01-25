@@ -1,2 +1,5 @@
 mouse~=0.7.1
 PyQt5~=5.15.6
+keyboard~=0.13.5
+PyAutoGUI~=0.9.53
+Pillow~=9.0.0
