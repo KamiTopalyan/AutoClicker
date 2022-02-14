@@ -10,7 +10,7 @@ SuperClicker is an autoclicker program that is customizable to a good extent lik
 
 1. Simply download the latest release from the releases tab and unzip it in a folder.
 
-2. Find the installer.bat and run it
+2. Open cmd on the unziped folder and run pip3 install -r requirements.txt
 
 3. Run the main.py file and thats all!
 
